@@ -20,7 +20,7 @@
 
 [twitter]: https://twitter.com/joshmadakor
 [youtube]: https://www.youtube.com/@daviddenis8995
-[instagram]: https://instagram.com/david_denis17_?igshid=OGQ5ZDc2ODk2ZA==
+[instagram]: https://instagram.com/david_denis17_
 [linkedin]: https://www.linkedin.com/in/david-denis-8aa15a267
 
 <!--
