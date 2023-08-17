@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 
-  - [Minesweeper](https://github.com/davidDenis17/Minesweeper/tree/main)
+  - [Minesweeper](https://github.com/davidDenis17/Minesweeper)
   - [Sudoku](https://github.com/davidDenis17/Sudoku)
   - [CLI Image Processing](https://github.com/davidDenis17/ImageProcessingCLI)
   - [Doubly Linked List Data Structure](https://github.com/davidDenis17/DoublyLinkedList)
