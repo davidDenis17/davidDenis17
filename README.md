@@ -5,7 +5,7 @@
 
   - [Minesweeper](https://github.com/davidDenis17/Minesweeper/tree/main)
   - [Sudoku](https://github.com/davidDenis17/Sudoku)
-  - [CLI Image Processing](https://www.youtube.com/watch?v=a83ASGn_V_s)
+  - [CLI Image Processing](https://github.com/davidDenis17/ImageProcessingCLI)
 
 
 <h2>📺 YouTube Videos</h2>
