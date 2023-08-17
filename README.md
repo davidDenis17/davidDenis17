@@ -4,7 +4,7 @@
 
 
   - [Minesweeper](https://github.com/davidDenis17/Minesweeper/tree/main)
-  - [Sudoku](https://github.com/davidDenis17/Minesweeper/tree/main)
+  - [Sudoku](https://github.com/davidDenis17/Sudoku)
 
 
 <h2>📺 YouTube Videos</h2>
