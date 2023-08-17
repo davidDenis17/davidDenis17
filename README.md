@@ -3,13 +3,13 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 
-  - [Minesweeper](https://github.com/davidDenis17/Minesweeper/blob/main/README.md)
+  - [Minesweeper](https://github.com/davidDenis17/Minesweeper/tree/main)
 
 
 <h2>📺 YouTube Videos</h2>
 
 - [Minesweeper Demo](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [Sudoku Demo](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Sudoku Demo](https://youtu.be/SkSvh1J0ric)
 
 <h2> 🤳 Connect with me:</h2>
 
