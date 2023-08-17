@@ -20,8 +20,8 @@
 
 [twitter]: https://twitter.com/joshmadakor
 [youtube]: https://www.youtube.com/@daviddenis8995
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+[instagram]: https://instagram.com/david_denis17
+[linkedin]: https://www.linkedin.com/in/david-denis-8aa15a267
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
