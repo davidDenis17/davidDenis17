@@ -10,7 +10,7 @@
 
 <h2>📺 YouTube Videos</h2>
 
-- [Minesweeper Demo](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Minesweeper Demo (Incoming...)](https://www.youtube.com)
 - [Sudoku Demo](https://youtu.be/SkSvh1J0ric)
 
 <h2> 🤳 Connect with me:</h2>
