@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 
-  - [Minesweeper](https://github.com/joshmadakor1/LABURL)
+  - [Minesweeper](https://github.com/davidDenis17/Minesweeper/blob/main/README.md)
 
 
 <h2>📺 YouTube Videos</h2>
