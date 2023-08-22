@@ -7,6 +7,7 @@
   - [Sudoku](https://github.com/davidDenis17/Sudoku)
   - [CLI Image Processing](https://github.com/davidDenis17/ImageProcessingCLI)
   - [Doubly Linked List Data Structure](https://github.com/davidDenis17/DoublyLinkedList)
+  - [ABS/ABQ Data Structure](https://github.com/davidDenis17/DoublyLinkedList)
 
 
 <h2>📺 YouTube Videos</h2>
