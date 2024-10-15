@@ -3,11 +3,9 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 
+  - [GaytorPal Mobile App](https://github.com/GaytorPal/Gaytor_Pal_Swift)
   - [Minesweeper](https://github.com/davidDenis17/Minesweeper)
-  - [Sudoku](https://github.com/davidDenis17/Sudoku)
-  - [CLI Image Processing](https://github.com/davidDenis17/ImageProcessingCLI)
-  - [Doubly Linked List Data Structure](https://github.com/davidDenis17/DoublyLinkedList)
-  - [ABS/ABQ Data Structure](https://github.com/davidDenis17/DoublyLinkedList)
+
 
 
 <h2>📺 YouTube Videos</h2>
